@@ -3,7 +3,7 @@ import Image from 'next/image'
 import Hero from '../components/Hero'
 import Ig from '../components/Ig'
 import Slider from '../components/Slider'
-import { SliderData } from '../components/Sliderdata'
+import { SliderData } from '../components/SliderData'
 
 
 export default function Home() {
