@@ -10,3 +10,8 @@ html{
 .custom-img {
   background-image: url('background.jpg');
 }
+.herobtn:hover{
+background: #ffffff;
+transition: 0.5s linear;
+color: #333;
+}
